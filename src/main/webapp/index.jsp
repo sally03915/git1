@@ -9,6 +9,6 @@
 <body>
    1. git eclipse
    2. commit 
-   3. new  branch
+   3. 수정
 </body>
 </html>
